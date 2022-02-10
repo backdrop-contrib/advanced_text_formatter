@@ -41,7 +41,7 @@ Documentation
 -------------
 
 Additional documentation is located in the Wiki:
-https://github.com/backdrop-contrib/advanced_text_formatter/wiki/Documentation.
+https://github.com/backdrop-contrib/advanced_text_formatter/wiki/.
 
 Issues
 ------
