@@ -1,7 +1,8 @@
+type = module
 name = Advanced Text Formatter
-description = "Provides an additional formatter for text field, text area and text format."
-core = 7.x
+description = Provides an additional formatter for text field, text area and text format.
 package = Fields
+backdrop = 1.x
 
 dependencies[] = text
 dependencies[] = filter
